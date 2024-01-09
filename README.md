@@ -5,8 +5,7 @@ Jupyter Notebookを用いて，ロボットのための推定や行動決定ア�
 
 ---
 #### アニメーション
-![図1 Q学習による状態価値の変化](/animation/state_V.gif)
-![図2 Q学習によるロボットの移動](/animation/move_robot.gif)
+<img src="animation/state_V.gif" width="400"> <img src="animation/move_robot.gif" width="400">
 
 ---
 #### 参考書籍
