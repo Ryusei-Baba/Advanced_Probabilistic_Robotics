@@ -1,7 +1,7 @@
 ### 2023年度 確率ロボティクス課題
 Jupyter Notebookを用いて，ロボットのための推定や行動決定アルゴリズムについてのシミュレーションを行う．
 
-課題内容：価値反復法のアルゴリズムであるQ学習により，迷路を探索する．[プラグラム](https://github.com/Ryusei-Baba/Advanced_Probabilistic_Robotics/blob/main/src/maze.ipynb)
+課題内容：価値反復法のアルゴリズムであるQ学習により，迷路を探索する．[プログラム](https://github.com/Ryusei-Baba/Advanced_Probabilistic_Robotics/blob/main/src/maze.ipynb)
 
 ---
 #### アニメーション
